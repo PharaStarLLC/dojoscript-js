@@ -1,0 +1,7 @@
+.eslintrc
+.prettierignore
+prettier.config.js
+licenseConfig.json
+feedwatcher.test.js
+.gitignore
+.git/
